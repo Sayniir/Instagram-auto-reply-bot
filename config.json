@@ -1,0 +1,10 @@
+{
+  "motsClesCommentaires": {
+    "poste": "Merci pour votre commentaire ! Voici le lien : https://exemple.com",
+    "aide": "Voici les instructions pour vous aider : https://exemple.com/aide"
+  },
+  "motsClesDM": {
+    "info": "Voici les informations demandées ✅",
+    "prix": "Les prix sont visibles ici : https://exemple.com/prix"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "instagram-bot",
+  "version": "1.0.0",
+  "description": "Bot Instagram automatique - réponse DM et commentaires, made by Rynas Kebdi AKA Sayniir",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "instagram-private-api": "^1.46.1"
+  }
+}
